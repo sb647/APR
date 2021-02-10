@@ -1,0 +1,9 @@
+Zadatak 2:
+LUP:
+3.0
+1.0
+-1.0
+LU:
+NaN
+NaN
+NaN

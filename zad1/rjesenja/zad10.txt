@@ -1,0 +1,2 @@
+Zadatak 10:
+Determinanta: 48.0
